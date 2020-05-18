@@ -1,0 +1,15 @@
+Outlook,Temperatur,Humidity,Wind,NeedUmbrella
+Overcast,Mild,High,Strong,No
+Overcast,Hot,High,Weak,No
+Overcast,Cool,Normal,Strong,No
+Overcast,Hot,Normal,Weak,No
+Rain,Mild,High,Strong,Yes
+Rain,Mild,High,Weak,No
+Rain,Cool,Normal,Strong,Yes
+Rain,Cool,Normal,Weak,No
+Rain,Mild,Normal,Weak,No
+Sunny,Hot,High,Strong,Yes
+Sunny,Hot,High,Weak,Yes
+Sunny,Mild,High,Weak,Yes
+Sunny,Mild,Normal,Strong,No
+Sunny,Cool,Normal,Weak,No
